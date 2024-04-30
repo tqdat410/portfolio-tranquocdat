@@ -65,7 +65,7 @@ body{
 
 .nav_bar span a:hover{
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -116,7 +116,7 @@ body{
     font-size: 90px;
     font-weight: bold;
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -134,7 +134,7 @@ body{
     color: #64DFDF;
     text-decoration: underline;
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -168,7 +168,7 @@ body{
 
 .intro_text span{
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -265,7 +265,7 @@ body{
 .edu h4{
     margin-bottom: 20px;
     background: -webkit-linear-gradient(#FBEEF4, #89615D, #FBEEF4);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -328,7 +328,7 @@ body{
     text-align: center;
     margin-bottom: 20px;
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -383,7 +383,7 @@ body{
 .pl h4{
     margin-bottom: 20px;
     background: -webkit-linear-gradient(#FBEEF4, #89615D, #FBEEF4);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -396,7 +396,7 @@ body{
 .md h4{
     margin-bottom: 20px;
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -468,7 +468,7 @@ body{
 
 .prj_1 a:hover{
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -625,7 +625,7 @@ body{
 
 .sap_text h2{
     background: -webkit-linear-gradient(#FBEEF4, #89615D);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -673,7 +673,7 @@ body{
 
 .contact_header h1{
     background: -webkit-linear-gradient(#050505, #252525, #FBEEF4);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
