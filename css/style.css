@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: url(/img/bg.jpg);
+    background-image: url("../img/bg.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -442,7 +442,7 @@ body{
 }
 
 .prj_1{
-    background-image: url(/img/prj_1.png);
+    background-image: url("../img/prj_1.png");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -473,7 +473,7 @@ body{
 }
 
 .prj_2{
-    background-image: url(/img/png.jpg);
+    background-image: url("../img/png.jpg");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -493,7 +493,7 @@ body{
 }
 
 .prj_3{
-    background-image: url(/img/png.jpg);
+    background-image: url("../img/png.jpg");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -513,7 +513,7 @@ body{
 }
 
 .prj_4{
-    background-image: url(/img/png.jpg);
+    background-image: url("../img/png.jpg");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -533,7 +533,7 @@ body{
 }
 
 .prj_5{
-    background-image: url(/img/png.jpg);
+    background-image: url("../img/png.jpg");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -553,7 +553,7 @@ body{
 }
 
 .prj_6{
-    background-image: url(/img/png.jpg);
+    background-image: url("../img/png.jpg");
     background-size: cover;
     padding: 0;
     display: flex;
@@ -661,7 +661,7 @@ body{
 .contact_header{
     width: 100%;
     background-color: #050505;
-    background-image: url(/img/ct.jpg);
+    background-image: url("../img/ct.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -679,7 +679,7 @@ body{
 
 .contact_img{
     width: 100%;
-    background-image: url(/img/ct.jpg);
+    background-image: url("../img/ct.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
